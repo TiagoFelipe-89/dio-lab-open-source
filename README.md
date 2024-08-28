@@ -10,7 +10,16 @@ Repositório desenvolvido para fins didáticos, com a disponibilização de mate
 [![Link do Lab](https://img.shields.io/badge/Acesse%20o%20Lab%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/lab/desafio-de-projeto-contribuindo-em-um-projeto-open-source-no-github/learning/913f26fd-1018-4643-b59a-6356ea77dc2e)
 
 ## Objetivo
-Aprender o básico sobre contribuição no GitHub.
+O objetivo deste projeto é ensinar e praticar os conceitos fundamentais de contribuição em projetos Open Source no GitHub. Durante o laboratório, os participantes aprenderão a:
+
+Clonar repositórios do GitHub para trabalhar localmente.
+Criar branches específicas para desenvolvimento de novas funcionalidades ou correções de bugs.
+Realizar commits de forma estruturada, seguindo as melhores práticas de escrita de mensagens.
+Enviar pull requests (PRs) para contribuir com mudanças em repositórios Open Source.
+Participar de discussões e resolver issues, colaborando efetivamente com outros desenvolvedores.
+Este laboratório visa capacitar os participantes com as habilidades necessárias para contribuir com projetos Open Source, entendendo o fluxo de trabalho no GitHub e a importância da colaboração na comunidade de software livre.
+
+
 
 ## Ferramentas
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)](https://docs.github.com/)
